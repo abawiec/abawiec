@@ -1,7 +1,11 @@
 @abawiec
+
 Andrew Bawiec (they/he)
+
 University of Southern California, Class of 2025
+
 BA Environmental Studies, Minors in Theatre and GIS & Sustainability Science
+
 andrew.bawiec@gmail.com
 
 <!---
